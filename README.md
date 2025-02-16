@@ -1,2 +1,2 @@
 # oaksview
-silver oaks script
+just like download the folder and run the python file
