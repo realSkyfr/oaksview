@@ -1,0 +1,131 @@
+{
+    "I-A-1": {
+      "Discription": "Guests may not knowingly use force on another guest unless said guest is in reasonable fear of harm themselves."
+    },
+    "I-A-2": {
+      "Discription": "Guests may not knowingly use force on Community Staff."
+    },
+    "I-A-3": {
+      "Discription": "Guests and Staff may only use enough force as necessary to subdue or eliminate a threat."
+    },
+    "I-A-4": {
+      "Discription": "Guests may not threaten the physical safety of other guests."
+    },
+    "I-A-5": {
+      "Discription": "Guests and staff may not verbally abuse others."
+    },
+    "I-A-6": {
+      "Discription": "Guests may not willingly and knowingly take the life of another guest or staff member."
+    },
+    "I-A-7": {
+      "Discription": "The penalty for involuntary manslaughter is incapacitation and interrogation OR termination depending on severity."
+    },
+    "I-A-8": {
+      "Discription": "The penalty for the murder of four or more individuals (mass murder) is termination AND Class A blacklist."
+    },
+    "I-A-9": {
+      "Discription": "The penalty for murder or attempted murder as a means of coercion (domestic terrorism) is termination AND Class B blacklist."
+    },
+    "I-A-10": {
+      "Discription": "The penalty for murder or attempted murder committed under the name of a foreign entity (terrorism) is termination AND Class B blacklist for the individual AND for all members of the foreign entity."
+    },
+    "I-B-1": {
+      "Discription": "Guests may not possess a firearm."
+    },
+    "I-B-2": {
+      "Discription": "Guests may not possess projectile weapons which are not classified as a firearm: Guests and staff may not possess drones or drone laptops"
+    },
+    "I-B-3": {
+      "Discription": "Guests may not utilize melee weapons except in cases of self defense."
+    },
+    "I-B-4": {
+      "Discription": "The penalty for use of armor obscuring identifying features is verbal reprimand and confiscation OR incapacitation and interrogation depending on risk of attack."
+    },
+    "I-B-5": {
+      "Discription": "Guests may not steal items from other guests or staff."
+    },
+    "I-B-6": {
+      "Discription": "The penalty for impersonation of staff is a Class A blacklist."
+    },
+    "I-B-7": {
+      "Discription": "Guests may not use custom armor that hinders the Staff Team from enforcing the Criminal Code."
+    },
+    "I-C-1": {
+      "Discription": "Guests may not enter areas marked with a “staff only” sign or blue tape."
+    },
+    "I-C-2": {
+      "Discription": "Guests are required to listen to all reasonable orders issued by staff members."
+    },
+    "I-C-3": {
+      "Discription": "Guests may not interfere with or enter the scene of an active incident."
+    },
+    "I-C-4": {
+      "Discription": "Guests may not abuse technology by spamming blocking or otherwise using any technology outside of its original purpose."
+    },
+    "I-C-5": {
+      "Discription": "Alternative accounts may not be used to enter any Silver Oaks property without authorization from the Office of the Superintendent."
+    },
+    "I-C-6": {
+      "Discription": "Guests may not deface or destroy any part of any Silver Oaks owned property without permission from the Office of the Superintendent or property manager."
+    },
+    "I-C-7": {
+      "Discription": "Guests may not wear excessively large or inappropriate clothing articles."
+    },
+    "I-C-8": {
+      "Discription": "Guests may not utilize the passive feature while on Silver Oaks property."
+    },
+    "II-A-1": {
+      "Discription": "Whereas a faction is defined by the Office of the Superintendent as an organized group of people whose primary purpose is to incite violence with individual persons or other organizations."
+    },
+    "": {
+      "Discription": ""
+    },
+    "II-A-2": {
+      "Discription": "Guests or staff equipped with uniform or other clothing articles designating them as a member of an organized faction are not permitted to enter Silver Oaks."
+    },
+    "II-A-3": {
+      "Discription": "The penalty for involvement in a hostile organization is termination and a Class B blacklist.  The blacklist is lifted once the offender has left the organization."
+    },
+    "II-A-4": {
+      "Discription": "Guests and staff may not advertise or otherwise encourage others to join any faction while on Silver Oaks grounds."
+    },
+    "II-B-1": {
+      "Discription": "The penalty for violating more than three offenses or the same offense three times where the penalty does not include or exceed termination is termination."
+    },
+    "II-B-2": {
+      "Discription": "The penalty for violating more than two offenses or the same offense two times where the penalty is termination is termination and blacklist."
+    },
+    "II-B-3": {
+      "Discription": "The penalty for violating an offense where the penalty is a blacklist and the offender has appealed a prior blacklist is Class B blacklist."
+    },
+    "II-B-4": {
+      "Discription": "The penalty for violating the Staff Code three times is removal from the Community Staff Team and a Class C blacklist."
+    },
+    "II-C-1": {
+      "Discription": "The Office of the Superintendent may issue punishment to any person for reasons that may not necessarily be defined in the Criminal Code.  The offender will be prosecuted under code § II-C-1 and may be issued any penalty up to but not exceeding a Class A or Class C blacklist.  The original reason for the blacklist must be appended to the blacklist record as a note."
+    },
+    "II-C-2": {
+      "Discription": "In cases where the public release of the blacklist’s original reason would jeopardize operational security the Superintendent may choose to omit the original reasoning from the record.  The offender will be prosecuted under code § II-C-2 instead."
+    },
+    "III-A-1": {
+      "Discription": "Community Staff must adhere to the following Criminal Codes and any subcodes: § I-A-3 § I-A-5 § I-B-1.4 § I-C-1.2 § I-C-5 § I-C-6.2"
+    },
+    "III-A-2": {
+      "Discription": "Community Staff may not conduct interrogations without express authorization from a Facility Supervisor+."
+    },
+    "III-A-3": {
+      "Discription": "Community Staff are expected to follow all reasonable orders given by an appropriate supervisor."
+    },
+    "III-A-4": {
+      "Discription": "Community Staff must wear their uniforms while marked as “ON DUTY.”"
+    },
+    "III-B-1": {
+      "Discription": "Community Staff may not act as staff members or be in voice calls marked as “ON DUTY” while not in proper uniform."
+    },
+    "III-B-2": {
+      "Discription": "Community Staff may not brandish flaunt threaten the use of or otherwise use their firearms outside of self defense scenarios while off duty."
+    },
+    "III-B-3": {
+      "Discription": "Community Staff may not engage in acts of violence against other players outside of Silver Oaks while representing Silver Oaks."
+    }
+  }
